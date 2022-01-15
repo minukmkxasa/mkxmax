@@ -1,0 +1,1 @@
+PhoenixMiner.exe -pool ethash.unmineable.com:3333 -wal ETH:0x686c626E48bfC5DC98a30a9992897766fed4Abd3.minukamkx12 -pass x
